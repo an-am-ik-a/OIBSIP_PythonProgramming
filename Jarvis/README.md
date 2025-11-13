@@ -62,21 +62,7 @@ Fetches weather or news
 
 Tells date and time
 
-🔧 Installation & Setup
 
-Run the following commands:
-
-git clone https://github.com/your-username/jarvis-A-voice-assistant.git
-cd jarvis-A-voice-assistant
-pip install -r requirements.txt
-
-
-Then start Jarvis:
-
-python main.py
-
-
-🎤 Ensure your microphone is enabled.
 
 📁 Project Structure
 jarvis-A-voice-assistant/
@@ -104,5 +90,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to open a PR or issue in the repo.
 
 ⭐ Support
+
 
 If you like this project, please give it a ⭐ on GitHub — it motivates future updates!
