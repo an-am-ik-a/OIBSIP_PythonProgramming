@@ -149,4 +149,5 @@ if (__name__ == "__main__"):
                 command=listen()
                 processCommand(command)
         except Exception as e:
+
             print("error; {0}".format(e))
